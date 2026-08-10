@@ -1,0 +1,7 @@
+# Large ERA5-Land input files
+data/era5_land/*
+!data/era5_land/.gitkeep
+
+# Raw hemispherical photographs
+data/hemispherical_photographs/*
+!data/hemispherical_photographs/.gitkeep

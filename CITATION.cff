@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+
+message: "If you use this code in your research, please cite this repository and the associated publication."
+
+title: "Analysis workflow for realized niche breadth in Atta leaf-cutting ants"
+
+type: software
+
+authors:
+  - family-names: "García Castillo"
+    given-names: "Diego Fernando"
+    orcid: "https://orcid.org/0000-0003-3212-5417"
+
+repository-code: "https://github.com/fernandoGarcia21/Atta-Realized-Niche-Breadth"
+
+abstract: >
+  Python analysis workflow associated with a study of realized niche breadth
+  in Atta cephalotes and Atta laevigata across environmental gradients in
+  Santander, Colombia. The repository includes workflows for hemispherical
+  image processing, environmental characterization, statistical analyses,
+  ERA5-Land climatic data processing, and figure generation.
+
+keywords:
+  - Atta
+  - Atta cephalotes
+  - Atta laevigata
+  - realized niche breadth
+  - leaf-cutting ants
+  - environmental gradients
+  - ERA5-Land
+  - Colombia
+
+license: MIT
