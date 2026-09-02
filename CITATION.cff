@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 
-message: "If you use this code in your research, please cite this repository and the associated publication."
+message: "If you use this code or data in your research, please cite the associated preprint."
 
 title: "Analysis workflow for realized niche breadth in Atta leaf-cutting ants"
 
@@ -31,3 +31,13 @@ keywords:
   - Colombia
 
 license: MIT
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "García Castillo"
+      given-names: "Diego Fernando"
+      orcid: "https://orcid.org/0000-0003-3212-5417"
+  title: "Generalism vs. specialization: Does niche breadth influence species responses to anthropogenic land-use change in Neotropical leaf-cutter ants?"
+  year: 2026
+  doi: "10.64898/2026.08.12.744409"
